@@ -47,7 +47,7 @@ To compile and run "Milan The Carrot Hunter" on a Linux system (typically used w
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/yourusername/so_long_final_may2025.git](https://github.com/yourusername/so_long_final_may2025.git)
+    git clone https://github.com/yourusername/so_long_final_may2025.git
     cd so_long_final_may2025
     ```
 
