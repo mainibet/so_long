@@ -14,15 +14,6 @@ Until we get to the final version! Here's a glimpse of Milan's adventure, from t
 
 ![Milan The Carrot Hunter](https://github.com/user-attachments/assets/3d50486f-f303-4b48-8ac5-33024e6b028d)
 
-
-**Starting the Hunt:**
-![Initial Game State Screenshot](assets/screenshot_start.png)
-*(Replace `assets/screenshot_start.png` with the actual path to your initial game state image)*
-
-**Mission Accomplished!**
-![Game Completion Screenshot](assets/screenshot_end.png)
-*(Replace `assets/screenshot_end.png` with the actual path to your game completion image)*
-
 ---
 
 ## 🚀 Features
