@@ -7,7 +7,6 @@ through a challenging labyrinth to collect all the carrots and find the exit, al
 
 ## 🎮 Gameplay Screenshots
 It was amazing to begin from drawing pixels...
-![Screenshot from 2025-04-22 12-15-21](https://github.com/user-attachments/assets/b9c8ddb7-d0cf-4b97-b1b6-94b4ce527263)
 
 ![Screenshot from 2025-04-23 11-19-53](https://github.com/user-attachments/assets/acd6e8a8-bcba-4c11-93c1-cffe3eef2bae)
 
